@@ -85,7 +85,7 @@ button{
     font-size: 18px;
 }
 
-h1.information{
+.information{
     text-align: center;
     font-size: 36px;
     color: #1f2937;
@@ -120,5 +120,4 @@ h1.information{
 .block p{
     width: 200px;
     font-size: 18px;
-
 }
