@@ -121,3 +121,38 @@ button{
     width: 200px;
     font-size: 18px;
 }
+
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    background-color: #c8c9ca;
+    text-align: center;
+    padding: 80px;
+
+}
+
+.wrapper{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+
+}
+.quote h1 {
+    font-size: 32px;
+    font-weight: 300;
+    font-style: italic;
+    max-width: 800px;
+    margin: auto;
+    
+}
+
+.quote p{
+    font-size: 24px;
+    font-weight: bold;
+    text-align: right;
+    max-width: 800px;
+    margin: auto;
+    margin-top: 10px;
+}
