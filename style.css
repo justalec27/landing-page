@@ -1,0 +1,25 @@
+*{
+    border: 1px solid red;
+}
+
+.header, .footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+    align-items: center;
+}
+
+.ul {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  gap: 16px;
+  color: red;
+}
+
+.right-links{
+    display: flex;
+    color
+
+}
